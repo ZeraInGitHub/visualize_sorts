@@ -4,7 +4,7 @@ Welcome to visualize_sorts! Where you can visualize sorting algorithms inside of
 # How to use?
 You can just clone this repository with the following:
 ```
-git clone
+git clone https://github.com/ZeraInGitHub/visualize_sorts.git
 ```
 Or download the ZIP folder.
 Make sure to run the main.py file!
