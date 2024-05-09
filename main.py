@@ -1,7 +1,7 @@
 from sorting import *
 from tools import *
 
-print('WELCOME TO VISUALIZE SORTS\n(A Sorting Algorithm visualizer in your terminal!)\n---VERSION not finished---')
+print('WELCOME TO VISUALIZE SORTS\n(A Sorting Algorithm visualizer in your terminal!)\n---VERSION V1.0-alpha---')
 
 length = int(input('Type the length of the array. (Must be an integer): '))
 array = visualizing.arrange(length)
